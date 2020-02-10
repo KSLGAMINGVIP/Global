@@ -21,42 +21,165 @@ dns.redirect 91.239.100.100
 dns.redirect 9.9.9.9
 
 0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 *receiver.sg.tdm.qq.com
+::1 receiver.sg.tdm.qq.com
+
 0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 *napubgm.broker.tplay.qq.com
+::1 napubgm.broker.tplay.qq.com
+
 0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 *idcconfig.gcloud.qq.com
+::1 idcconfig.gcloud.qq.com
+
 0.0.0.0 vmp.qq.com
+0.0.0.0 *vmp.qq.com
+::1 vmp.qq.com
+
 0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 *cdn.wetest.qq.com
+::1 cdn.wetest.qq.com
+
 0.0.0.0 intldlgs.qq.com
+0.0.0.0 *intldlgs.qq.com
+::1 intldlgs.qq.com
+
 0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 *csoversea.mbgame.gamesafe.qq.com
+::1 csoversea.mbgame.gamesafe.qq.com
+
 0.0.0.0 .weiyun.com
+0.0.0.0 *.weiyun.com
+::1 .weiyun.com
+
 0.0.0.0 .myapp.com
+0.0.0.0 *.myapp.com
+::1 .myapp.com
+
 0.0.0.0 .qmail.com
+0.0.0.0 *.qmail.com
+::1 .qmail.com
+
 0.0.0.0 .qzone.com
+0.0.0.0 *.qzone.com
+::1 .qzone.com
+
 0.0.0.0 .hk
+0.0.0.0 *.hk
+::1 .hk
+
 0.0.0.0 .qqgames.com
+0.0.0.0 *.qqgames.com
+::1 .qqgames.com
+
 0.0.0.0 .qqmail.com
+0.0.0.0 *.qqmail.com
+::1 .qqmail.com
+
 0.0.0.0 .superfix.com
+0.0.0.0 *.superfix.com
+::1 .superfix.com
+
 0.0.0.0 .qq.com
+0.0.0.0 *.qq.com
+::1 .qq.com
+
 0.0.0.0 .cnzz.com
+0.0.0.0 *.cnzz.com
+::1 .cnzz.com
+
 0.0.0.0 .proximabeta.com
+0.0.0.0 *.proximabeta.com
+::1 .proximabeta.com
+
 0.0.0.0 .pubgmobile.com
+0.0.0.0 *.pubgmobile.com
+::1 .pubgmobile.com
+
 0.0.0.0 .tencent.com
+0.0.0.0 *.tencent.com
+::1 .tencent.com
+
 0.0.0.0 .sl-reverse.com
+0.0.0.0 *.sl-reverse.com
+::1 .sl-reverse.com
+
 0.0.0.0 .qcloud.com
+0.0.0.0 *.qcloud.com
+::1 .qcloud.com
+
 0.0.0.0 .twimg.com
+0.0.0.0 *.twimg.com
+::1 .twimg.com
+
 0.0.0.0 .helpshift.com
+0.0.0.0 *.helpshift.com
+::1 .helpshift.com
+
 0.0.0.0 .fbsbx.com
+0.0.0.0 *.fbsbx.com
+::1 .fbsbx.com
+
 0.0.0.0 .userapi.com
+0.0.0.0 *.userapi.com
+::1 .userapi.com
+
 0.0.0.0 scgt.reverse.com
+0.0.0.0 *scgt.reverse.com
+::1 scgt.reverse.com
+
 0.0.0.0 app.adjust.com
+0.0.0.0 *app.adjust.com
+::1 app.adjust.com
+
 0.0.0.0 .intellitxt.com
+0.0.0.0 *.intellitxt.com
+::1 .intellitxt.com
+
 0.0.0.0 .actencent.com
+0.0.0.0 *.actencent.com
+::1 .actencent.com
+
 0.0.0.0 android.bugly.qq.com
+0.0.0.0 *android.bugly.qq.com
+::1 android.bugly.qq.com
+
 0.0.0.0 api.phenixos.com
+0.0.0.0 *api.phenixos.com
+::1 api.phenixos.com
+
 0.0.0.0 www.pubgmobile.com
+0.0.0.0 *www.pubgmobile.com
+::1 www.pubgmobile.com
+
 0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 *platform-lookaside.fbsbx.com
+::1 platform-lookaside.fbsbx.com
+
 0.0.0.0 scgt.reverse.com
+0.0.0.0 *scgt.reverse.com
+::1 scgt.reverse.com
+
 0.0.0.0 rpgohsnmh.com
+0.0.0.0 *rpgohsnmh.com
+::1 rpgohsnmh.com
+
+0.0.0.0 app.adjust.com
+0.0.0.0 *app.adjust.com
+::1 app.adjust.com
+
 0.0.0.0 ns1.qq.com
+0.0.0.0 *ns1.qq.com
+::1 ns1.qq.com
+
 0.0.0.0 ns2.qq.com
+0.0.0.0 *ns2.qq.com
+::1 ns2.qq.com
+
 0.0.0.0 ns3.qq.com
+0.0.0.0 *ns3.qq.com
+::1 ns3.qq.com
+
 0.0.0.0 ns4.qq.com
+0.0.0.0 *ns4.qq.com
+::1 ns4.qq.com
