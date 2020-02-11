@@ -1,6 +1,10 @@
 127.0.0.1 localhost
+0.0.0.1 localhost
+127.1.40.2 localhost
 127.0.0.1 localhost.localdomain
 255.255.255.255 broadcasthost
+0.0.0.0 local
+::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
 fe80::1%lo0 localhost
@@ -183,3 +187,15 @@ dns.redirect 9.9.9.9
 0.0.0.0 ns4.qq.com
 0.0.0.0 *ns4.qq.com
 ::1 ns4.qq.com
+
+0.0.0.0 .com
+0.0.0.0 *.com
+::1 .com
+
+0.0.0.0 .net
+0.0.0.0 *.net
+::1 .net
+
+0.0.0.0 .org
+0.0.0.0 *.org
+::1 .org
